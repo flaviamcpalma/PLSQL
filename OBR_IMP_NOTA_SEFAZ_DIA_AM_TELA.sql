@@ -16,6 +16,7 @@ CREATE OR REPLACE PROCEDURE OBR_IMP_NOTA_SEFAZ_DIA_AM_TELA(p_EstCodigo  VARCHAR2
     -- FCP     AD.3305766 15/03/2024 - Alteracao no calculo do multiplicador
     -- FCP     AD.3322746 08/08/2024 - Considerar parametros 13 e 14 e adequacao do campo cod_tributacao, para que fique de acordo com a obrigacao
     -- FCP     AD.3325264 28/08/2024 - Ajuste evitar erro de conversao para numerico
+    -- FCP                25/09/2024 - teste 
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     -- Variaveis para o tutl_fileratamento do arquivo.
